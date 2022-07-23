@@ -1,0 +1,25 @@
+.tag{
+    color: seagreen;
+}
+button{
+    background-color: blue;
+    color: white;
+    height: 30px;
+   border-radius: 6px;
+}
+
+#hi{
+    color: chocolate;
+}
+
+#clock{
+    color: gold;
+}
+
+#h1{
+    color: fuchsia;
+}
+
+#hideme{
+    color:brown;
+}
